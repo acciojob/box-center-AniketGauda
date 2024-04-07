@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+span{
+    position: relative;
+    top: 50%;
+    left: 25%;
+    color: purple;
+}
